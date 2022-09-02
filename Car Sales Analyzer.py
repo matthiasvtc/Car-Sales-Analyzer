@@ -1,6 +1,6 @@
 '''
 Project 3 - Car Sales Analyzer - Spring 2021 
-Author: Matthias Cannon matthiasc@vt.edu
+Author: Matthias C
 
 Car Sales Analysis.
 
